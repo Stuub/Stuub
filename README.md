@@ -13,5 +13,5 @@ Just an offensive security nut making fun stuff
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/stuub](https://www.linkedin.com/in/stuart-beck-4a69051a4/))
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StuartBeck11)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/StuartBeck11](https://x.com/stuub_))
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=white)](https://stuub.dev)
